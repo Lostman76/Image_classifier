@@ -1,0 +1,13 @@
+Flask
+gunicorn
+Jinja2
+numpy
+scipy
+pandas
+scikit-learn
+pandas
+joblib
+opencv-python
+PyWavelets
+matplotlib
+pybase64
