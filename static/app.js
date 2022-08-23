@@ -4,7 +4,7 @@ function init() {
     let dz = new Dropzone("#dropzone", {
         url: "/",
         maxFiles: 1,
-        addRemoveLinks: false,
+        addRemoveLinks: true,
         dictDefaultMessage: "Some Message",
         autoProcessQueue: false
     });
