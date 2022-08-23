@@ -3,7 +3,7 @@ gunicorn
 Jinja2
 numpy
 scipy
-pandas
+seaborn
 scikit-learn
 pandas
 joblib
