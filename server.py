@@ -3,7 +3,7 @@ from flask import Flask,render_template
 import util
 import os
 
-app = Flask(__name__, static_url_path="/static", static_folder='/Image_classifier/static')
+app = Flask(__name__, static_url_path="/static", static_folder='Image_classifier/static')
 
 @app.route('/')
 def static_file():
